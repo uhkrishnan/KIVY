@@ -1,1 +1,1 @@
-# KIVY
+# KIVY - Python project repository
